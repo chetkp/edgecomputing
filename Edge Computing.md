@@ -135,3 +135,5 @@ As edge computing continues to evolve, several key trends and innovations are sh
 
 ## Conclusion
 Edge computing is rapidly evolving, driven by AI, 5G, cybersecurity advancements, and sustainability efforts. As industries increasingly adopt edge solutions, innovations will continue to enhance real-time processing, security, and efficiency across various sectors.
+
+Thanks - *Chet* 
