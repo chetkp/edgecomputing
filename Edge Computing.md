@@ -126,10 +126,10 @@ As edge computing continues to evolve, several key trends and innovations are sh
 - Ultra-low latency of 5G networks improves real-time data processing.
 - Supports applications like autonomous vehicles, smart cities, and AR/VR experiences.
 - Multi-Access Edge Computing (MEC) integrates 5G with edge computing for seamless connectivity.
-3. **Edge-as-a-Service (EaaS)****
+3. **Edge-as-a-Service (EaaS)**
 - Cloud providers (AWS, Azure, Google Cloud) are offering managed edge solutions, reducing complexity.
 - Enterprises can deploy **pay-as-you-go edge** infrastructure without high upfront costs.
-4. **Quantum Computing and Edge****
+4. **Quantum Computing and Edge**
 - Early research explores **quantum-enhanced edge computing** for ultra-fast data processing.
 - Potential for secure edge encryption using quantum key distribution (QKD).
 
