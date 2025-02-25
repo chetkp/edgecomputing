@@ -23,6 +23,8 @@ To address these challenges, businesses are adopting edge computing architecture
 
 The below is the architectural diagram of Edge Computing and some explanation about its different layers:
 
+![Alt](https://github.com/chetkp/edgecomputing/blob/main/edge.png)
+
 A standard edge computing architecture consists of three layers:
 
 **Cloud Layer** – This layer is responsible for storing and processing large volumes of data, handling complex analytics, and managing long-term storage.
